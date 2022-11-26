@@ -1,0 +1,35 @@
+img{
+    width: 220px;
+}
+.card-header{
+    background-color: rgb(5, 5, 5);
+    color: rgb(9, 245, 68);
+    font-weight: 300;
+    font-size: 25px ;
+    text-align: center;
+}
+body{
+    /* background-color: #c1c1c1; */
+    background-image: url('https://cdn.pixabay.com/photo/2016/04/11/10/02/watercolour-1321645_960_720.jpg');
+    background-repeat: no-repeat;
+    background-size:50% 50%;
+    background-size:cover;
+}
+.card-body{
+    text-align: center;
+    background-color: rgb(241, 119, 241);
+    margin-bottom: 0px;
+}
+.flag1{
+    width: 100%;
+    height: 200px;
+}
+.col-sm-6.col-md-4.col-lg-4.col-xl-4{
+    margin-bottom: 25px;
+}
+.align{
+    text-align: left;
+}
+button{
+    align-items: center;
+}
